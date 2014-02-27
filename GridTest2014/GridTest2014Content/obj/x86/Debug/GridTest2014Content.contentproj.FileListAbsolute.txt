@@ -1,0 +1,2 @@
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014Content\obj\x86\Debug\GridTest2014Content.contentprojResolveAssemblyReference.cache
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014Content\obj\x86\Debug\GridTest2014Content.contentprojResolveAssemblyReference.cache

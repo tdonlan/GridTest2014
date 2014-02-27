@@ -1,0 +1,16 @@
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\GridTest2014.exe
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\GridTest2014.pdb
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\GridTest2014.csprojResolveAssemblyReference.cache
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\GridTest2014.exe
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\GridTest2014.pdb
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\Content\WhitePixel.xnb
+C:\GameDev\Dev\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\Content\WhitePixel.xnb
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\GridTest2014.exe
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\bin\x86\Debug\GridTest2014.pdb
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\GridTest2014.csprojResolveAssemblyReference.cache
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\GridTest2014.exe
+C:\GameDev\GitHubRepos\GridTest2014\GridTest2014\GridTest2014\obj\x86\Debug\GridTest2014.pdb
